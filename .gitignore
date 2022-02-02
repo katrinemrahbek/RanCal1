@@ -1,3 +1,7 @@
 main.exe
 RanCal.depend
 RanCal.layout
+/bin/*
+Rancal.cbp
+main.o
+.vscode/launch.json
